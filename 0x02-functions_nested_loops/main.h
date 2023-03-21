@@ -1,7 +1,3 @@
-
-main.h CODE
-
-#ifndef main_h
 #define main_h
 
 
